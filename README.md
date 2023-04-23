@@ -11,7 +11,7 @@ This software is a C# project printing the phrase "Hello World"
  The software is a practice for creating new C# projects and repositories in Github
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/d9ZarnzH92U)
 
 # Development Environment
 
@@ -24,5 +24,5 @@ C# was used
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Hello world video demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
+* [4 ways to record a screen](movavi.com/learning-portal/record-screen-windows-10-with-audio.html)
